@@ -4,9 +4,6 @@ This repository contains a collection of beginner to intermediate-level Python m
 
 ## 📁 Project Structure
 
-### Folders
-- **snake game/** – Classic snake game built using Python’s `turtle` or `pygame`.
-
 ### Python Scripts
 - **DrawTurtle.py** – Turtle graphics-based drawing scripts. 
 - **Linear Search.py** – Implements a basic linear search algorithm.
@@ -25,7 +22,8 @@ This repository contains a collection of beginner to intermediate-level Python m
 
 ## ✅ Requirements
 
-- Python 3.x
+-
+ Python 3.x
 - Libraries: `tkinter`, `os`, `time`, `datetime`, `subprocess`, `platform`, etc.
 - Optional: `scapy` or `wifi` for scanning networks (requires admin privileges).
 
