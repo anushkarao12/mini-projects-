@@ -5,10 +5,10 @@ This repository contains a collection of beginner to intermediate-level Python m
 ## 📁 Project Structure
 
 ### Folders
-- **DrawTurtle/** – Turtle graphics-based drawing scripts.
 - **snake game/** – Classic snake game built using Python’s `turtle` or `pygame`.
 
 ### Python Scripts
+- **DrawTurtle.py** – Turtle graphics-based drawing scripts. 
 - **Linear Search.py** – Implements a basic linear search algorithm.
 - **WiFi_Scanning.py** – Scans available WiFi networks using system-level commands (platform-dependent).
 - **calc.py** – A simple calculator for basic arithmetic operations.
