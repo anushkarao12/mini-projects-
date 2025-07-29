@@ -19,6 +19,7 @@ This repository contains a collection of beginner to intermediate-level Python m
 - **stopwatch.py** – A GUI stopwatch app using Tkinter.
 - **tEditor.py** – A basic text editor with save/open functionality.
 - **validator_credit_cards.py** – Validates credit card numbers (possibly using Luhn algorithm).
+- **puzzle_of _harry_potter.py** -  A logic-based inference game that uses propositional logic to solve magical mysteries inspired by the Harry Potter universe.
 
 ## ✅ Requirements
 
