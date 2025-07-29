@@ -10,6 +10,7 @@ This repository contains a collection of beginner to intermediate-level Python m
 - **minesweeper.zip** - This is an interactive Minesweeper game powered by a custom AI agent that plays the game using logical inference. The AI deduces safe cells and mines based on previous moves and known information — simulating human-like reasoning.
 - **Pagerank.zip** - This project implements the PageRank algorithm, originally developed by Google, to rank web pages based on the structure of their links. It includes two approaches: Sampling-based PageRank, & Iterative PageRank. The code is written in Python and includes a simple Tkinter-based GUI for user-friendly interaction.
 - **crossword.zip** - A Python-based GUI application that generates crossword puzzles from a predefined grid structure and a list of words. Users can input their own grid design and custom word list to create personalized crossword puzzles.
+- **Degrees.zip** - The Degrees of Separation program finds the shortest connection between two actors based on shared movies using breadth-first search.
 
 ### Python Scripts
 - **DrawTurtle.py** – Turtle graphics-based drawing scripts. 
