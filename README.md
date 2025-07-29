@@ -31,6 +31,7 @@ This repository contains a collection of beginner to intermediate-level Python m
 - **validator_credit_cards.py** – Validates credit card numbers (possibly using Luhn algorithm).
 - **puzzle_of _harry_potter.py** -  A logic-based inference game that uses propositional logic to solve magical mysteries inspired by the Harry Potter universe.
 - **puzzle_of_Knight_and_Knaves.py** - A GUI-based logic puzzle solver that uses propositional logic and model checking to determine the truth in Knights and Knaves puzzles.
+- **Numpy Nn.py** - A GUI-based neural network simulator using NumPy that allows users to perform matrix operations, visualize outputs, and experiment with custom activation functions.
 
 ## ✅ Requirements
 
